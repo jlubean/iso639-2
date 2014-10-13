@@ -1,8 +1,8 @@
 {
-  "name": "iso-6390-2",
+  "name": "iso-639-2",
   "version": "0.1.1",
   "description": "ISO 639-2 language library",
-  "main": "iso-630-2.js",
+  "main": "iso-639-2.js",
   "scripts": {
   },
   "repository": {
