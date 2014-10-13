@@ -1,4 +1,4 @@
-# iso-639-2
+# iso639-2
 
 This ISO 639-2 JavaScript library works in NodeJS and modern web browsers.  
 It provides a function to get an array of all languages, sorted by alpha-3
@@ -31,7 +31,7 @@ value of rtl.*
 
 ## NodeJS Usage
 ```js
-    var languages = require('iso-639-2');
+    var languages = require('iso639-2');
     var langs = languages.getLanguages('eng');
 
     for (i=0, len=langs.length; i<len; i++) {
@@ -51,7 +51,7 @@ value of rtl.*
     <title>ISO 639-2 Languages Module</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-    <script src="iso-639-2.js"></script>
+    <script src="iso639-2.js"></script>
     <style>
         body {
             background-color: #fff;

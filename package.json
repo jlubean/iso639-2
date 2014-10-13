@@ -1,13 +1,13 @@
 {
-  "name": "iso-639-2",
-  "version": "0.1.1",
+  "name": "iso639-2",
+  "version": "0.1.2",
   "description": "ISO 639-2 language library",
-  "main": "iso-639-2.js",
+  "main": "iso639-2.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jlubean/ios-639-2.git"
+    "url": "git://github.com/jlubean/ios639-2.git"
   },
   "keywords": [
     "iso 639-2",
