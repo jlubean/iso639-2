@@ -1,7 +1,7 @@
 /*
 * Copyright 2014
 * Jason LuBean <jason.lubean@gmail.com>
-* https://github.com/jlubean/iso-639-2
+* https://github.com/jlubean/iso639-2
 *
 * This program is free software; you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by
